@@ -7,3 +7,5 @@ observation probabilities given a current hidden state.
 Files ```test.txt``` and ```test_missing.txt``` contain data. the first three columns correspond to the hidden states, and the last two columns correspond to the observations.
 
 A visualization tool is provided by ```graphics.py```, which can be turned on by setting ```enable_graphics``` to True in ```inference.py```.
+
+Run ```inference.py``` to observe results. 
